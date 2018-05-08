@@ -1,6 +1,4 @@
-~ 在此撰写本章进阶任务完全版报告，800 字以上，除主要思路、步骤及结论，还需附摘要、讨论、参考文献等。
-
-报告示范：[信息分析报告（完全版）](https://github.com/AIHackers/IA001/blob/master/TmpAnalysisReportFull.md) 
+测试用
 
 # 报告标题
 
